@@ -1,0 +1,2918 @@
+<?xml version="1.0" ?>
+<root>
+	<photo id="0" name="20240310_101348.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.82</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:13:48</datetime>
+			<datetime_digitized>2024:03:10 10:13:48</datetime_digitized>
+			<datetime_original>2024:03:10 10:13:48</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.00102880658436214</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>135.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 33.02196)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 49.248)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>55530</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.00102880658436214</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole on a city street</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych, agatka</improved_description>
+	</photo>
+	<photo id="1" name="20240310_101428.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.1</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:14:28</datetime>
+			<datetime_digitized>2024:03:10 10:14:28</datetime_digitized>
+			<datetime_original>2024:03:10 10:14:28</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.001447178002894356</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>141.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 34.979639)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 49.711319)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>49816</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.001447178002894356</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole on a city street</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych</improved_description>
+	</photo>
+	<photo id="2" name="20240310_101504.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.13</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:15:04</datetime>
+			<datetime_digitized>2024:03:10 10:15:04</datetime_digitized>
+			<datetime_original>2024:03:10 10:15:04</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.001834862385321101</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>164.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.124719)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 50.560559)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>62611</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.001834862385321101</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole on a city street</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych</improved_description>
+	</photo>
+	<photo id="3" name="20240310_101538.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>5.44</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:15:39</datetime>
+			<datetime_digitized>2024:03:10 10:15:39</datetime_digitized>
+			<datetime_original>2024:03:10 10:15:39</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.00558659217877095</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>164.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.124719)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 50.560559)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>61174</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.00558659217877095</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue street sign sitting on the side of a building</description>
+		<improved_description>Znaki drogowe: miejsce parkingowe dla niepełnosprawnych</improved_description>
+	</photo>
+	<photo id="4" name="20240310_101621.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.09</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:16:22</datetime>
+			<datetime_digitized>2024:03:10 10:16:22</datetime_digitized>
+			<datetime_original>2024:03:10 10:16:22</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0017921146953405018</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>149.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.91564)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 50.499)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>49748</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0017921146953405018</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole on a city street</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych</improved_description>
+	</photo>
+	<photo id="5" name="20240310_101641.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>6.72</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:16:41</datetime>
+			<datetime_digitized>2024:03:10 10:16:41</datetime_digitized>
+			<datetime_original>2024:03:10 10:16:41</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0023094688221709007</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>126.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.846519)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 49.374359)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>50829</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0023094688221709007</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue and white sign on a pole</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych</improved_description>
+	</photo>
+	<photo id="6" name="20240310_101656.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.44</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:16:56</datetime>
+			<datetime_digitized>2024:03:10 10:16:56</datetime_digitized>
+			<datetime_original>2024:03:10 10:16:56</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0013351134846461949</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>157.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 37.229999)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 50.436719)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>61951</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0013351134846461949</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole in front of a building</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych</improved_description>
+	</photo>
+	<photo id="7" name="20240310_101711.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.36</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:17:12</datetime>
+			<datetime_digitized>2024:03:10 10:17:12</datetime_digitized>
+			<datetime_original>2024:03:10 10:17:12</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0014903129657228018</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>130.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.05908)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 50.967)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>54269</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0014903129657228018</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a red car parked on the side of a road</description>
+		<improved_description>Znaki drogowe: miejsce parkingowe, tabliczka wskazująca postój całego pojazdu na jezdni równolegle do krawężnika</improved_description>
+	</photo>
+	<photo id="8" name="20240310_101803.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>5.61</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:18:03</datetime>
+			<datetime_digitized>2024:03:10 10:18:03</datetime_digitized>
+			<datetime_original>2024:03:10 10:18:03</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0049504950495049506</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>98.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.856479)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 49.27104)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>54111</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0049504950495049506</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue street sign on a pole next to a building</description>
+		<improved_description>Znaki drogowe: miejsce parkingowe, tablica informacyjna</improved_description>
+	</photo>
+	<photo id="9" name="20240310_101833.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.7</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:18:33</datetime>
+			<datetime_digitized>2024:03:10 10:18:33</datetime_digitized>
+			<datetime_original>2024:03:10 10:18:33</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0011574074074074073</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>145.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.83992)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 48.10212)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>51540</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0011574074074074073</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a no right turn sign</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych, agatka, zakaz skrętu w lewo, nie dotyczy roweru</improved_description>
+	</photo>
+	<photo id="10" name="20240310_101850.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.39</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:18:51</datetime>
+			<datetime_digitized>2024:03:10 10:18:51</datetime_digitized>
+			<datetime_original>2024:03:10 10:18:51</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0014367816091954023</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>145.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.83992)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 48.10212)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>52199</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0014367816091954023</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a man on it</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych, agatka, droga bez przejazdu </improved_description>
+	</photo>
+	<photo id="11" name="20240310_101905.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>4.72</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:19:05</datetime>
+			<datetime_digitized>2024:03:10 10:19:05</datetime_digitized>
+			<datetime_original>2024:03:10 10:19:05</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.007352941176470588</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>145.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.83992)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 48.10212)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>59102</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.007352941176470588</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a sign on a building with a sky background</description>
+		<improved_description>Znaki drogowe: miejsce parkingowe, zakaz wjazdu pojazdów o wysokości ponad 1,7m </improved_description>
+	</photo>
+	<photo id="12" name="20240310_101957.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.03</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:19:57</datetime>
+			<datetime_digitized>2024:03:10 10:19:57</datetime_digitized>
+			<datetime_original>2024:03:10 10:19:57</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0018281535648994515</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>130.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.77692)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 48.14568)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>64060</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0018281535648994515</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole</description>
+		<improved_description>Znaki drogowe: miejsce parkingowe</improved_description>
+	</photo>
+	<photo id="13" name="20240310_102025.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.44</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:20:25</datetime>
+			<datetime_digitized>2024:03:10 10:20:25</datetime_digitized>
+			<datetime_original>2024:03:10 10:20:25</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0014204545454545455</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>133.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.794919)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 47.26908)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>62982</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0014204545454545455</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a metal pole</description>
+		<improved_description>Znaki drogowe: zakaz ruchu w obu kierunkach</improved_description>
+	</photo>
+	<photo id="14" name="20240310_102046.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>6.91</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:20:46</datetime>
+			<datetime_digitized>2024:03:10 10:20:46</datetime_digitized>
+			<datetime_original>2024:03:10 10:20:46</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0019801980198019802</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>133.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.794919)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 47.26908)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>54973</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0019801980198019802</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a stop sign on a street corner with a stop sign</description>
+		<improved_description>Znaki drogowe: zakaz ruchu w obu kierunkach, droga pożarowa</improved_description>
+	</photo>
+	<photo id="15" name="20240310_102109.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.33</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:21:09</datetime>
+			<datetime_digitized>2024:03:10 10:21:09</datetime_digitized>
+			<datetime_original>2024:03:10 10:21:09</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0014104372355430183</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>140.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 37.45284)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 39.1284)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>59308</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0014104372355430183</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a blue arrow pointing right</description>
+		<improved_description>Znaki drogowe: droga jednokierunkowa</improved_description>
+	</photo>
+	<photo id="16" name="20240310_102122.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.46</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:21:23</datetime>
+			<datetime_digitized>2024:03:10 10:21:23</datetime_digitized>
+			<datetime_original>2024:03:10 10:21:23</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0011441647597254005</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>140.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 37.45284)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 39.1284)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>54644</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0011441647597254005</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole next to a tree</description>
+		<improved_description>Znaki drogowe: nakaz skrętu w prawo</improved_description>
+	</photo>
+	<photo id="17" name="20240310_102140.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>5.78</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:21:41</datetime>
+			<datetime_digitized>2024:03:10 10:21:41</datetime_digitized>
+			<datetime_original>2024:03:10 10:21:41</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0037593984962406013</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>140.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 37.45284)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 39.1284)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>64333</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0037593984962406013</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue street sign on a pole next to a tree</description>
+		<improved_description>Znaki drogowe: strefa zamieszkania</improved_description>
+	</photo>
+	<photo id="18" name="20240310_102401.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>8.37</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:24:01</datetime>
+			<datetime_digitized>2024:03:10 10:24:01</datetime_digitized>
+			<datetime_original>2024:03:10 10:24:01</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0006830601092896175</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>125.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.5206)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.43328)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>61858</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>3</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0006830601092896175</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a no right turn sign</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych,agatka, zakaz skrętu w prawo</improved_description>
+	</photo>
+	<photo id="19" name="20240310_102416.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.39</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:24:16</datetime>
+			<datetime_digitized>2024:03:10 10:24:16</datetime_digitized>
+			<datetime_original>2024:03:10 10:24:16</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0012919896640826874</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>125.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.5206)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.43328)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>59636</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0012919896640826874</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole on a street</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych, agatka</improved_description>
+	</photo>
+	<photo id="20" name="20240310_102425.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.24</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:24:25</datetime>
+			<datetime_digitized>2024:03:10 10:24:25</datetime_digitized>
+			<datetime_original>2024:03:10 10:24:25</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0013831258644536654</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>125.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 38.5206)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.43328)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>56755</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0013831258644536654</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole in front of a building</description>
+		<improved_description>Znaki drogowe: zakaz wjazdu</improved_description>
+	</photo>
+	<photo id="21" name="20240310_102456.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>5.76</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:24:56</datetime>
+			<datetime_digitized>2024:03:10 10:24:56</datetime_digitized>
+			<datetime_original>2024:03:10 10:24:56</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.004524886877828055</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>99.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 37.812839)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.79004)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>51044</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.004524886877828055</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue and white sign on a pole</description>
+		<improved_description>Znaki drogowe: miejsce parkingowe dla niepełnosprawnych</improved_description>
+	</photo>
+	<photo id="22" name="20240310_102536.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.05</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:25:36</datetime>
+			<datetime_digitized>2024:03:10 10:25:36</datetime_digitized>
+			<datetime_original>2024:03:10 10:25:36</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0018050541516245488</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>85.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.07252)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.794)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>42634</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0018050541516245488</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue street sign on a pole</description>
+		<improved_description>Znaki drogowe: miejsce parkingowe dla niepełnosprawnych</improved_description>
+	</photo>
+	<photo id="23" name="20240310_102554.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>8.07</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:25:54</datetime>
+			<datetime_digitized>2024:03:10 10:25:54</datetime_digitized>
+			<datetime_original>2024:03:10 10:25:54</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0008210180623973727</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>85.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.07252)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.794)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>46051</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0008210180623973727</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole</description>
+		<improved_description>Znaki drogowe: zakaz wjazdu</improved_description>
+	</photo>
+	<photo id="24" name="20240310_102617.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.03</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:26:17</datetime>
+			<datetime_digitized>2024:03:10 10:26:17</datetime_digitized>
+			<datetime_original>2024:03:10 10:26:17</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0019011406844106464</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>85.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.07252)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.794)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>54546</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0019011406844106464</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a man walking on it</description>
+		<improved_description>Znaki drogowe: przejście dla pieszych, agatka, nakaz skrętu w prawo</improved_description>
+	</photo>
+	<photo id="25" name="20240310_102659.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>6.55</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:26:59</datetime>
+			<datetime_digitized>2024:03:10 10:26:59</datetime_digitized>
+			<datetime_original>2024:03:10 10:26:59</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.002551020408163265</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>85.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.07252)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.794)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>45855</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.002551020408163265</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a no parking sign on it</description>
+		<improved_description>Znaki drogowe: zakaz ruchu w obu kierunkach, droga wewnętrzna, droga bez przejazdu</improved_description>
+	</photo>
+	<photo id="26" name="20240310_102935.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.68</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:29:35</datetime>
+			<datetime_digitized>2024:03:10 10:29:35</datetime_digitized>
+			<datetime_original>2024:03:10 10:29:35</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.001004016064257028</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>141.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.39688)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 45.40968)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>45010</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.001004016064257028</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole on a street</description>
+		<improved_description>Znaki drogowe: droga bez przejazdu, strefa ruchu</improved_description>
+	</photo>
+	<photo id="27" name="20240310_102959.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.63</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:29:59</datetime>
+			<datetime_digitized>2024:03:10 10:29:59</datetime_digitized>
+			<datetime_original>2024:03:10 10:29:59</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0010626992561105207</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>141.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.39688)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 45.40968)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>52432</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0010626992561105207</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a no parking sign on a street corner</description>
+		<improved_description>Znaki drogowe: zakaz parkowania</improved_description>
+	</photo>
+	<photo id="28" name="20240310_103204.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>6.94</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:32:04</datetime>
+			<datetime_digitized>2024:03:10 10:32:04</datetime_digitized>
+			<datetime_original>2024:03:10 10:32:04</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0017543859649122807</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>127.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 34.778759)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 44.89632)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>57584</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0017543859649122807</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a clock on a pole in front of a building</description>
+		<improved_description>Znaki drogowe: zakaz wjazdu ciężarówek, droga jednokierunkowa</improved_description>
+	</photo>
+	<photo id="29" name="20240310_103208.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.24</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:32:09</datetime>
+			<datetime_digitized>2024:03:10 10:32:09</datetime_digitized>
+			<datetime_original>2024:03:10 10:32:09</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0014619883040935672</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>127.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 34.778759)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 44.89632)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>63188</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0014619883040935672</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole in front of a building</description>
+		<improved_description>Znaki drogowe: limit prędkości, niebezpieczny zjazd</improved_description>
+	</photo>
+	<photo id="30" name="20240310_103215.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>6.58</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:32:15</datetime>
+			<datetime_digitized>2024:03:10 10:32:15</datetime_digitized>
+			<datetime_original>2024:03:10 10:32:15</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.002173913043478261</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>127.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 34.778759)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 44.89632)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>56308</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.002173913043478261</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a red and white clock on a building</description>
+		<improved_description>Znaki drogowe: zakaz wjazdu rowerów, zakaz wjazdu pojazdów o wysokości większej niż 1,7m</improved_description>
+	</photo>
+	<photo id="31" name="20240310_103409.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.74</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:34:10</datetime>
+			<datetime_digitized>2024:03:10 10:34:10</datetime_digitized>
+			<datetime_original>2024:03:10 10:34:10</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0011389521640091116</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>129.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 35.2068)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 43.506719)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>62886</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0011389521640091116</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole with a sky background</description>
+		<improved_description>Znaki drogowe: zakaz ruchu w obu kierunkach</improved_description>
+	</photo>
+	<photo id="32" name="20240310_103512.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.89</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:35:12</datetime>
+			<datetime_digitized>2024:03:10 10:35:12</datetime_digitized>
+			<datetime_original>2024:03:10 10:35:12</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0009551098376313276</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>176.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 26.213999)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 38.44548)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>58415</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0009551098376313276</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole on a road</description>
+		<improved_description>Znaki drogowe: zakaz parkowania</improved_description>
+	</photo>
+	<photo id="33" name="20240310_103538.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>8.58</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:35:38</datetime>
+			<datetime_digitized>2024:03:10 10:35:38</datetime_digitized>
+			<datetime_original>2024:03:10 10:35:38</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0005889281507656066</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>176.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 26.213999)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 38.44548)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>60576</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0005889281507656066</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole on a street</description>
+		<improved_description>Znaki drogowe: koniec strefy ograniczonej prędkości</improved_description>
+	</photo>
+	<photo id="34" name="20240310_103603.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>8.42</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:36:03</datetime>
+			<datetime_digitized>2024:03:10 10:36:03</datetime_digitized>
+			<datetime_original>2024:03:10 10:36:03</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0007347538574577516</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>92.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 24.383399)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 39.6846)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>61779</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0007347538574577516</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a yellow arrow pointing left</description>
+		<improved_description>Znaki drogowe: ustąp pierwszeństwa, rondo, przejście dla pieszych, agatka</improved_description>
+	</photo>
+	<photo id="35" name="20240310_103618.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.07</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:36:18</datetime>
+			<datetime_digitized>2024:03:10 10:36:18</datetime_digitized>
+			<datetime_original>2024:03:10 10:36:18</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0018050541516245488</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>91.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 24.470879)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 38.03976)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>61979</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0018050541516245488</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue sign with a yellow arrow and a red arrow</description>
+		<improved_description>Znaki drogowe: strafa z ograniczoną prędkością, strefa uspokojenia ruchu</improved_description>
+	</photo>
+	<photo id="36" name="20240310_103654.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>7.34</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:36:54</datetime>
+			<datetime_digitized>2024:03:10 10:36:54</datetime_digitized>
+			<datetime_original>2024:03:10 10:36:54</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.001483679525222552</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>147.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 23.83584)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 36.470879)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>53190</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.001483679525222552</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue and yellow sign</description>
+		<improved_description>Znaki drogowe: ustąp pierwszeństwa, rondo</improved_description>
+	</photo>
+	<photo id="37" name="20240310_103710.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>8.84</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:37:11</datetime>
+			<datetime_digitized>2024:03:10 10:37:11</datetime_digitized>
+			<datetime_original>2024:03:10 10:37:11</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0004710315591144607</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>147.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 23.83584)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 36.470879)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>60647</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0004710315591144607</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole</description>
+		<improved_description>Znaki drogowe: strefa z ograniczoną prędkością</improved_description>
+	</photo>
+	<photo id="38" name="20240310_103724.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>9.12</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:37:24</datetime>
+			<datetime_digitized>2024:03:10 10:37:24</datetime_digitized>
+			<datetime_original>2024:03:10 10:37:24</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0004130524576621231</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>147.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 23.83584)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 36.470879)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>58336</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0004130524576621231</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole with a sky background</description>
+		<improved_description>Znaki drogowe: droga z pierwszeństwem</improved_description>
+	</photo>
+	<photo id="39" name="20240310_103753.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>8.91</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:37:53</datetime>
+			<datetime_digitized>2024:03:10 10:37:53</datetime_digitized>
+			<datetime_original>2024:03:10 10:37:53</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.000484027105517909</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>139.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 22.424999)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 35.22384)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>46855</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.000484027105517909</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole</description>
+		<improved_description>Znaki drogowe: zakaz wjazdu ciężarówek</improved_description>
+	</photo>
+	<photo id="40" name="20240310_103759.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>9.23</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:10 10:38:00</datetime>
+			<datetime_digitized>2024:03:10 10:38:00</datetime_digitized>
+			<datetime_original>2024:03:10 10:38:00</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.0003819709702062643</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>143.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 20.0, 21.785279)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 33.0, 35.51364)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>57317</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.0003819709702062643</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign is in front of a building</description>
+		<improved_description>Znaki drogowe: ustąp pierwszeństwa</improved_description>
+	</photo>
+	<photo id="41" name="20240311_085827.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>4.5</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 08:58:27</datetime>
+			<datetime_digitized>2024:03:11 08:58:27</datetime_digitized>
+			<datetime_original>2024:03:11 08:58:27</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>66.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 9.53868)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 38.3292)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>61918</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue and white sign</description>
+		<improved_description>Znaki drogowe: droga bez przejazdu, zakaz parkowania, strefa ruchu</improved_description>
+	</photo>
+	<photo id="42" name="20240311_085853.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>4.55</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 08:58:54</datetime>
+			<datetime_digitized>2024:03:11 08:58:54</datetime_digitized>
+			<datetime_original>2024:03:11 08:58:54</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>41.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 12.44388)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 52.883639)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>61614</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a tree in a city</description>
+		<improved_description>Znaki drogowe: strefa ograniczonej prędkości, drzewa w skrajni</improved_description>
+	</photo>
+	<photo id="43" name="20240311_090003.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>3.84</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:00:03</datetime>
+			<datetime_digitized>2024:03:11 09:00:03</datetime_digitized>
+			<datetime_original>2024:03:11 09:00:03</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>67.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 15.270239)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 52.41816)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>50510</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>32</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a tree in the background</description>
+		<improved_description>Znaki drogowe: zakaz ruchu w obu kierunkach ruchu</improved_description>
+	</photo>
+	<photo id="44" name="20240311_090148.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>3.9</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:01:48</datetime>
+			<datetime_digitized>2024:03:11 09:01:48</datetime_digitized>
+			<datetime_original>2024:03:11 09:01:48</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>47.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 12.6912)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 50.57172)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>40146</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>25</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a no left turn sign on a building</description>
+		<improved_description>Znaki drogowe: zakaz skrętu w lewo</improved_description>
+	</photo>
+	<photo id="45" name="20240311_090235.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>4.29</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:02:36</datetime>
+			<datetime_digitized>2024:03:11 09:02:36</datetime_digitized>
+			<datetime_original>2024:03:11 09:02:36</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>65.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 13.884599)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 51.743519)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>54034</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign on a pole in front of a building</description>
+		<improved_description>Znaki drogowe: uwaga piesi</improved_description>
+	</photo>
+	<photo id="46" name="20240311_090332.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>2.62</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:03:33</datetime>
+			<datetime_digitized>2024:03:11 09:03:33</datetime_digitized>
+			<datetime_original>2024:03:11 09:03:33</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.02</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>40.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 13.182599)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 50.97024)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>63427</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>32</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.02</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a blue sign with an arrow pointing left</description>
+		<improved_description>Znaki drogowe: pierwszeństwo na zwężonym odcinku jezdni</improved_description>
+	</photo>
+	<photo id="47" name="20240311_090404.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>3.67</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:04:04</datetime>
+			<datetime_digitized>2024:03:11 09:04:04</datetime_digitized>
+			<datetime_original>2024:03:11 09:04:04</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>47.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 14.548439)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 50.32872)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>54688</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>32</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a car parked in front of a building</description>
+		<improved_description>Znaki drogowe: zakaz parkowania</improved_description>
+	</photo>
+	<photo id="48" name="20240311_090440.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>3.81</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:04:40</datetime>
+			<datetime_digitized>2024:03:11 09:04:40</datetime_digitized>
+			<datetime_original>2024:03:11 09:04:40</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>68.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 15.29976)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 50.83236)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>50524</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>32</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a man standing next to a street sign</description>
+		<improved_description>Znaki drogowe: zakaz parkowania</improved_description>
+	</photo>
+	<photo id="49" name="20240311_090501.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>5.35</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:05:01</datetime>
+			<datetime_digitized>2024:03:11 09:05:01</datetime_digitized>
+			<datetime_original>2024:03:11 09:05:01</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.006024096385542169</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>68.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 15.29976)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 50.83236)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>53880</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.006024096385542169</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a red and blue sign on a pole</description>
+		<improved_description>Znaki drogowe: zakaz parkowania, droga pożarowa</improved_description>
+	</photo>
+	<photo id="50" name="20240311_090518.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>3.75</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:05:18</datetime>
+			<datetime_digitized>2024:03:11 09:05:18</datetime_digitized>
+			<datetime_original>2024:03:11 09:05:18</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>68.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 15.29976)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 50.83236)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>52216</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>32</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a arrow pointing left</description>
+		<improved_description>Znaki drogowe: pierwszeństwo dla nadjeżdżających z przeciwka</improved_description>
+	</photo>
+	<photo id="51" name="20240311_090529.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>4.25</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:05:30</datetime>
+			<datetime_digitized>2024:03:11 09:05:30</datetime_digitized>
+			<datetime_original>2024:03:11 09:05:30</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.01</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>68.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 15.29976)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 50.83236)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>46283</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.01</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a street sign with a cross on it</description>
+		<improved_description>Znaki drogowe: zakaz parkowania</improved_description>
+	</photo>
+	<photo id="52" name="20240311_090600.jpg">
+		<EXIF>
+			<_exif_ifd_pointer>238</_exif_ifd_pointer>
+			<_gps_ifd_pointer>696</_gps_ifd_pointer>
+			<aperture_value>2.0</aperture_value>
+			<brightness_value>4.4</brightness_value>
+			<color_space>1</color_space>
+			<compression>6</compression>
+			<datetime>2024:03:11 09:06:01</datetime>
+			<datetime_digitized>2024:03:11 09:06:01</datetime_digitized>
+			<datetime_original>2024:03:11 09:06:01</datetime_original>
+			<digital_zoom_ratio>1.0</digital_zoom_ratio>
+			<exif_version>0220</exif_version>
+			<exposure_bias_value>0.0</exposure_bias_value>
+			<exposure_mode>0</exposure_mode>
+			<exposure_program>2</exposure_program>
+			<exposure_time>0.00980392156862745</exposure_time>
+			<f_number>2.0</f_number>
+			<flash>Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=FlashMode.UNKNOWN, flash_function_not_present=False, red_eye_reduction_supported=False, reserved=0)</flash>
+			<focal_length>4.6</focal_length>
+			<focal_length_in_35mm_film>25</focal_length_in_35mm_film>
+			<gps_altitude>64.0</gps_altitude>
+			<gps_altitude_ref>0</gps_altitude_ref>
+			<gps_latitude>(54.0, 22.0, 15.634199)</gps_latitude>
+			<gps_latitude_ref>N</gps_latitude_ref>
+			<gps_longitude>(18.0, 36.0, 50.70888)</gps_longitude>
+			<gps_longitude_ref>E</gps_longitude_ref>
+			<has_exif>True</has_exif>
+			<image_height>3000</image_height>
+			<image_unique_id>L48LLMF01PM</image_unique_id>
+			<image_width>4000</image_width>
+			<jpeg_interchange_format>948</jpeg_interchange_format>
+			<jpeg_interchange_format_length>51958</jpeg_interchange_format_length>
+			<make>samsung</make>
+			<max_aperture_value>2.0</max_aperture_value>
+			<metering_mode>2</metering_mode>
+			<model>SM-M215F</model>
+			<offset_time>+01:00</offset_time>
+			<offset_time_original>+01:00</offset_time_original>
+			<orientation>6</orientation>
+			<photographic_sensitivity>20</photographic_sensitivity>
+			<pixel_x_dimension>4000</pixel_x_dimension>
+			<pixel_y_dimension>3000</pixel_y_dimension>
+			<resolution_unit>2</resolution_unit>
+			<scene_capture_type>0</scene_capture_type>
+			<shutter_speed_value>0.00980392156862745</shutter_speed_value>
+			<software>M215FXXS3CWK1</software>
+			<white_balance>0</white_balance>
+			<x_resolution>72.0</x_resolution>
+			<y_and_c_positioning>1</y_and_c_positioning>
+			<y_resolution>72.0</y_resolution>
+		</EXIF>
+		<description>a red and white stop sign</description>
+		<improved_description>Znaki drogowe: zakaz wjazdu</improved_description>
+	</photo>
+</root>

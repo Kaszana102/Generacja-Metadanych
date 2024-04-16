@@ -1,9 +1,10 @@
-from exif import Image
+import types
 from xml.etree.ElementTree import Element, SubElement, tostring
 import os
-import requests
+from exif import Image
 from PIL import Image as ImageMod
 from transformers import BlipProcessor, BlipForConditionalGeneration
+import xml.dom.minidom
 
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 root = Element('root')
@@ -19,24 +20,26 @@ for imageFile in os.listdir(images_directory):
     imageFileName = os.fsdecode(imageFile)
     if imageFileName.endswith(".jpg"):
         # print(os.path.join(directory, filename))
-        with open(os.path.join(images_directory, imageFile), 'rb') as image_handle:
+        with open(os.path.join(images_directory, imageFile),'rb') as image_file:
+            image = Image(image_file)
 
             photo = SubElement(root, "photo")
             photo.set("id", str(id))
             photo.set("name", imageFileName)
-            exif = SubElement(photo, "EXIF")
-            description = SubElement(root, "description")
-            description.text = "opis"
-            id += 1
 
-            image = Image(image_handle)
-            if image.has_exif:
-                dir(image)
-                # add exif
-                for trait in dir(image):
-                    if image.get(trait) is not None:
-                        ex = SubElement(exif, trait)
-                        ex.text = str(image.get(trait))
+            exif_node = SubElement(photo, "EXIF")
+            description = SubElement(photo, "description")
+
+            id += 1
+            print(id)
+            # add exif
+            for key in dir(image):
+                if key != '_segments':
+                    val = image.get(key)
+                    if not hasattr(val, '__self__'):
+                        exif = SubElement(exif_node, key)
+                        exif.text = str(val)
+
 
             raw_image = ImageMod.open(os.path.join(images_directory, imageFile)).convert('RGB')
 
@@ -44,6 +47,9 @@ for imageFile in os.listdir(images_directory):
             inputs = processor(raw_image, return_tensors="pt")
 
             out = model.generate(**inputs)
-            print(processor.decode(out[0], skip_special_tokens=True))
 
-#print(tostring(root))
+            description.text = processor.decode(out[0], skip_special_tokens=True)
+
+
+with open('xml.xml','w') as file:
+    file.write(xml.dom.minidom.parseString(tostring(root)).toprettyxml())
